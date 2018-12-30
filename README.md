@@ -1,8 +1,8 @@
-# App Weather API with React-Native Android
-![Scan Disini](https://github.com/frankzealot/weatherwidget/blob/master/qr.png)
+# TUGAS MOBILE 2
+![Scan Disini]<br><br><img src="aji.PNG")
 
-Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@frankzealot/weatherwidget
+Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@ajiamdani/weatherwidget
 
 Tugas 2 pemrograman mobile 
-- nim  : 2015150097
-- nama : Rahman hidayat
+- nim  : 2015150045
+- nama :aji amdani
