@@ -1,5 +1,5 @@
 # TUGAS MOBILE 2
-![Scan Disini]<br><br><img src="aji">
+![Scan Disini]<br><br><img src="aji.PNG">
 
 Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@ajiamdani/weatherwidget
 
